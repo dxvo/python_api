@@ -8,8 +8,6 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
-
 ## WeatherPy
 
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
@@ -34,7 +32,6 @@ As final considerations:
 * You must use the Matplotlib or Pandas plotting libraries.
 * You must include a written description of three observable trends based on the data.
 * You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
-* See [Example Solution](WeatherPy_Example.pdf) for a reference on expected format.
 
 ## Hints and Considerations
 
